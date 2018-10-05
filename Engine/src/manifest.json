@@ -3,17 +3,17 @@
   "name": "Test PWA",
   "icons": [
     {
-      "src": "src/images/logo.png",
+      "src": "./images/logo.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "src/images/logo.png",
+      "src": "./images/logo.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": "src/index.html",
+  "start_url": "./index.html",
   "background_color": "#3367D6",
   "display": "standalone",
   "scope": "/",
