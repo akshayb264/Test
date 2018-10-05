@@ -6,21 +6,53 @@
     <link rel="manifest" href="/manifest.json">
 </head>
 <body>
-    Hello
+    <div>
+        Hello
+    </div>
+
+
+    <div>
+        <label for="name">
+            Enter Name
+            <input type="text" name="name" />
+        </label>
+    </div>
+
+    <div>
+        <label for="Email">
+            Enter Email
+            <input type="email" name="Email" />
+        </label>
+    </div>
+
+    <div>
+        <label for="Phone">
+            Enter Phone
+            <input type="email" name="Phone" />
+        </label>
+    </div>
+
+    <div>
+        <label for="Password">
+            Enter Password
+            <input type="password" name="Password" />
+        </label>
+    </div>
+
 
     <script>
-   
-            if ('serviceWorker' in navigator) {
-                window.addEventListener('load', function () {
-                    navigator.serviceWorker.register('../sw.js').then(function (registration) {
-                        // Registration was successful
-                        console.log('ServiceWorker registration successful with scope: ', registration.scope);
-                    }, function (err) {
-                        // registration failed :(
-                        console.log('ServiceWorker registration failed: ', err);
-                    });
+
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function () {
+                navigator.serviceWorker.register('../sw.js').then(function (registration) {
+                    // Registration was successful
+                    console.log('ServiceWorker registration successful with scope: ', registration.scope);
+                }, function (err) {
+                    // registration failed :(
+                    console.log('ServiceWorker registration failed: ', err);
                 });
-            }
+            });
+        }
     </script>
 </body>
 </html>
