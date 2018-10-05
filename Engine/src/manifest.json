@@ -3,17 +3,17 @@
   "name": "Test Maps",
   "icons": [
     {
-      "src": "/images/logo.png",
+      "src": "./images/logo.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/images/logo.png",
+      "src": "./images/logo.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "background_color": "#3367D6",
   "display": "standalone",
   "scope": "/",
