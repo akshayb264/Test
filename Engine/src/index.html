@@ -38,9 +38,29 @@
             <input type="password" name="Password" />
         </label>
     </div>
+    <div class="Dynamic">
+        
+    </div>
 
+    <div>
+
+        <br/>
+<button onclick="abc()">Add Dynamic DOM</button>
+
+    </div>
 
     <script>
+
+        function abc() {
+            var domContent =$(
+                `
+            <label for="dynamic" class="dynamicContent">
+                <input type="" name="Password" />
+            </label>`);
+
+            $(".Dynamic").append(domContent);
+
+        }
 
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', function () {
