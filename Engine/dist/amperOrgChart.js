@@ -1575,7 +1575,7 @@ $.mockjax({
     'phone': '+44(0)20 7295 3286',
     'id': getId(),
     'email': 'edmund.reed@traverssmith.com',
-    'portfoliopic': 'Test/Engine/images/avatar/11.jpg',
+    'portfoliopic': 'images/avatar/11.jpg',
     'children': [
       {
         'name': 'James Renahan',
