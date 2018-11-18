@@ -1575,14 +1575,14 @@ $.mockjax({
     'phone': '+44(0)20 7295 3286',
     'id': getId(),
     'email': 'edmund.reed@traverssmith.com',
-    'portfoliopic': '../images/avatar/11.jpg',
+    'portfoliopic': '/images/avatar/11.jpg',
     'children': [
       {
         'name': 'James Renahan',
         'dept': 'partner, Private Equity',
         'phone': '+44(0)20 7295 3286',
         'email': 'edmund.reed@traverssmith.com',
-        'portfoliopic': '../images/avatar/13.jpg',
+        'portfoliopic': '/images/avatar/13.jpg',
         'id': getId(),
       },
       // { 'className': 'drill-down asso-rd', 'name': 'Su Miao', 'dept': 'R&D dept' },
@@ -1591,7 +1591,7 @@ $.mockjax({
         'dept': 'partner, Private Equity',
         'phone': '+44(0)20 7295 3286',
         'email': 'edmund.reed@traverssmith.com',
-        'portfoliopic': '../images/avatar/12.jpg',
+        'portfoliopic': '/images/avatar/12.jpg',
         'id': getId(),
       },
       {
@@ -1599,7 +1599,7 @@ $.mockjax({
         'dept': 'partner, Private Equity',
         'phone': '+44(0)20 7295 3286',
         'email': 'edmund.reed@traverssmith.com',
-        'portfoliopic': '../images/avatar/4.jpg',
+        'portfoliopic': ./images/avatar/4.jpg',
         'id': getId(),
       },
       {
@@ -1607,7 +1607,7 @@ $.mockjax({
         'dept': 'partner, Private Equity',
         'phone': '+44(0)20 7295 3286',
         'email': 'edmund.reed@traverssmith.com',
-        'portfoliopic': '../images/avatar/2.jpg',
+        'portfoliopic': '/images/avatar/2.jpg',
         'id': getId(),
       },
       {
@@ -1615,7 +1615,7 @@ $.mockjax({
         'dept': 'partner, Privaste Equity',
         'phone': '+44(0)20 7295 3286',
         'email': 'edmund.reed@traverssmith.com',
-        'portfoliopic': '../images/avatar/7.jpg',
+        'portfoliopic': '/images/avatar/7.jpg',
         'id': getId(),
       },
       {
@@ -1623,7 +1623,7 @@ $.mockjax({
         'dept': 'partner, Privaste Equity',
         'phone': '+44(0)20 7295 3286',
         'email': 'edmund.reed@traverssmith.com',
-        'portfoliopic': '../images/avatar/8.jpg',
+        'portfoliopic': '/images/avatar/8.jpg',
         'id': getId(),
       },
       {
@@ -1631,7 +1631,7 @@ $.mockjax({
         'dept': 'partner, Privaste Equity',
         'phone': '+44(0)20 7295 3286',
         'email': 'edmund.reed@traverssmith.com',
-        'portfoliopic': '../images/avatar/9.jpg',
+        'portfoliopic': '/images/avatar/9.jpg',
         'id': getId(),
       },
       {
@@ -1639,7 +1639,7 @@ $.mockjax({
         'dept': 'partner, Privaste Equity',
         'phone': '+44(0)20 7295 3286',
         'email': 'edmund.reed@traverssmith.com',
-        'portfoliopic': '../images/avatar/3.jpg',
+        'portfoliopic': '/images/avatar/3.jpg',
         'id': getId(),
       }
     ]
