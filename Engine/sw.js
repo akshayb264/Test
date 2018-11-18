@@ -1,7 +1,6 @@
 ﻿
 var CACHE_NAME = 'learning-cache-v1';
 var urlsToCache = [
-    'src/images/logo.png',
     'src/styles/main.css',
     'src/lib/jquery-3.3.1.min.js',
     'src/offline.html'

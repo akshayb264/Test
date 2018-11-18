@@ -1,8 +1,9 @@
-<html>
+﻿<html>
 
 <head>
     <link href="styles/main.css" rel="stylesheet" type="text/css" />
     <script src="lib/jquery-3.3.1.min.js"></script>
+    <meta charset="utf-8" />
     <link rel="manifest" href="./manifest.json">
 </head>
 <body>
@@ -49,7 +50,13 @@
 
     </div>
 
+    <img src="images/logo.png" width="400" height="400"/>
+
     <script>
+        async function addToCache(urls) {
+            const myCache = await window.caches.open('learning-cache-v1');
+            await myCache.addAll(urls);
+        }
 
         function abc() {
             var domContent =$(
@@ -70,7 +77,8 @@
                 }, function (err) {
                     // registration failed :(
                     console.log('ServiceWorker registration failed: ', err);
-                });
+                    });
+               // addToCache(['https://10.0.0.122:4487/Engine/src/images/logo.png']);
             });
         }
     </script>

@@ -1,0 +1,1 @@
+﻿APIForUrlsCache = self.def();
