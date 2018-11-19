@@ -1448,7 +1448,7 @@ $.mockjax({
     'dept': 'Relationship Partner',
     'phone': '+44(0)20 7295 3286',
     'email': 'edmund.reed@traverssmith.com',
-    'portfoliopic': '/images/avatar/11.jpg',
+    'portfoliopic': 'images/avatar/11.jpg',
     'id': getId(),
     'children': [
       {
@@ -1457,7 +1457,7 @@ $.mockjax({
         'phone': '',
         'email': '',
         'isEmpty': 'noContent',
-        'portfoliopic': '/images/forest-holiday-logo.PNG',
+        'portfoliopic': 'images/forest-holiday-logo.PNG',
         'id': getId(),
         'children': [
           {
@@ -1465,7 +1465,7 @@ $.mockjax({
             'dept': 'Associate, Private Equity',
             'phone': '',
             'email': 'robert.coward@traversmmith.com',
-            'portfoliopic': '/images/avatar/13.jpg',
+            'portfoliopic': 'images/avatar/13.jpg',
             'id': getId(),
 
 
@@ -1478,7 +1478,7 @@ $.mockjax({
         'phone': '',
         'email': '',
         'isEmpty': 'noContent',
-        'portfoliopic': '/images/Busaba.PNG',
+        'portfoliopic': 'images/Busaba.PNG',
         'id': getId(),
         'children': [
           {
@@ -1486,7 +1486,7 @@ $.mockjax({
             'dept': 'Senior Counsel,Private Equity',
             'phone': '',
             'email': 'emma.havas@traverssmith.com',
-            'portfoliopic': '/images/avatar/6.jpg',
+            'portfoliopic': 'images/avatar/6.jpg',
             'id': getId(),
 
 
@@ -1499,7 +1499,7 @@ $.mockjax({
         'phone': '',
         'email': '',
         'isEmpty': 'noContent',
-        'portfoliopic': '/images/blm.PNG',
+        'portfoliopic': 'images/blm.PNG',
         'id': getId(),
         'children': [
           {
@@ -1507,7 +1507,7 @@ $.mockjax({
             'dept': 'Associate,Private Equity',
             'phone': '',
             'email': 'katie.mcgarry@traverssmith.com',
-            'portfoliopic': '/images/avatar/3.jpg',
+            'portfoliopic': 'images/avatar/3.jpg',
             'id': getId(),
 
 
@@ -1520,7 +1520,7 @@ $.mockjax({
         'phone': '',
         'email': '',
         'isEmpty': 'noContent',
-        'portfoliopic': '/images/Global.PNG',
+        'portfoliopic': 'images/Global.PNG',
         'id': getId(),
         'children': [
           {
@@ -1528,7 +1528,7 @@ $.mockjax({
             'dept': 'Senior Associate,Private Equity',
             'phone': '',
             'email': 'ian.keefe@traverssmith.com',
-            'portfoliopic': '/images/avatar/14.png',
+            'portfoliopic': 'images/avatar/14.png',
             'id': getId(),
 
 
@@ -1541,7 +1541,7 @@ $.mockjax({
         'phone': '',
         'email': '',
         'isEmpty': 'noContent',
-        'portfoliopic': '/images/Capital.PNG',
+        'portfoliopic': 'images/Capital.PNG',
         'id': getId(),
         'children': [
           {
@@ -1549,7 +1549,7 @@ $.mockjax({
             'dept': 'Associate,Private Equity',
             'phone': '',
             'email': 'eve.dwyer@traverssmith.com',
-            'portfoliopic': '/images/avatar/16.png',
+            'portfoliopic': 'images/avatar/16.png',
             'id': getId(),
 
 
@@ -1577,14 +1577,14 @@ $.mockjax({
     'phone': '+44(0)20 7295 3286',
     'id': getId(),
     'email': 'edmund.reed@traverssmith.com',
-    'portfoliopic': '/images/avatar/11.jpg',
+    'portfoliopic': 'images/avatar/11.jpg',
     'children': [{
       'name': '',
       'dept': '',
       'phone': '',
       'email': '',
       'isEmpty': 'noContent',
-      'portfoliopic': '/images/forest-holiday-logo.PNG',
+      'portfoliopic': 'images/forest-holiday-logo.PNG',
       'id': getId(),
       'children': [
         {
@@ -1592,7 +1592,7 @@ $.mockjax({
           'dept': 'partner, Private Equity',
           'phone': '+44(0)20 7295 3286',
           'email': 'edmund.reed@traverssmith.com',
-          'portfoliopic': '/images/avatar/12.jpg',
+          'portfoliopic': 'images/avatar/12.jpg',
           'id': getId(),
         },
         {
@@ -1600,7 +1600,7 @@ $.mockjax({
           'dept': 'partner, Private Equity',
           'phone': '+44(0)20 7295 3286',
           'email': 'edmund.reed@traverssmith.com',
-          'portfoliopic': '/images/avatar/4.jpg',
+          'portfoliopic': 'images/avatar/4.jpg',
           'id': getId(),
         }],
     },
@@ -1610,7 +1610,7 @@ $.mockjax({
         'phone': '',
         'email': '',
         'isEmpty': 'noContent',
-        'portfoliopic': '/images/Busaba-Eathai-logo.jpeg',
+        'portfoliopic': 'images/Busaba-Eathai-logo.jpeg',
         'id': getId(),
         children:[
           {
@@ -1618,7 +1618,7 @@ $.mockjax({
             'dept': 'partner, Private Equity',
             'phone': '+44(0)20 7295 3286',
             'email': 'edmund.reed@traverssmith.com',
-            'portfoliopic': '/images/avatar/2.jpg',
+            'portfoliopic': 'images/avatar/2.jpg',
             'id': getId(),
           },
           {
@@ -1626,7 +1626,7 @@ $.mockjax({
             'dept': 'partner, Private Equity',
             'phone': '+44(0)20 7295 3286',
             'email': 'edmund.reed@traverssmith.com',
-            'portfoliopic': '/images/avatar/7.jpg',
+            'portfoliopic': 'images/avatar/7.jpg',
             'id': getId(),
           },
         ]
@@ -1638,14 +1638,14 @@ $.mockjax({
         'phone': '',
         'email': '',
         'isEmpty': 'noContent',
-        'portfoliopic': '/images/gfs-logo.gif',
+        'portfoliopic': 'images/gfs-logo.gif',
         'id': getId(),
         children:[ {
           'name': 'Sam Kay',
           'dept': 'partner, Private Equity',
           'phone': '+44(0)20 7295 3286',
           'email': 'edmund.reed@traverssmith.com',
-          'portfoliopic': '/images/avatar/8.jpg',
+          'portfoliopic': 'images/avatar/8.jpg',
           'id': getId(),
         },
         {
@@ -1653,7 +1653,7 @@ $.mockjax({
           'dept': 'partner, Private Equity',
           'phone': '+44(0)20 7295 3286',
           'email': 'edmund.reed@traverssmith.com',
-          'portfoliopic': '/images/avatar/9.jpg',
+          'portfoliopic': 'images/avatar/9.jpg',
           'id': getId(),
         },]
 
@@ -1663,14 +1663,14 @@ $.mockjax({
       'phone': '',
       'email': '',
       'isEmpty': 'noContent',
-      'portfoliopic': '/images/GNS-logo.PNG',
+      'portfoliopic': 'images/GNS-logo.PNG',
       'id': getId(),
       children:[ {
         'name': 'Emma Pereira',
         'dept': 'partner, Private Equity',
         'phone': '+44(0)20 7295 3286',
         'email': 'edmund.reed@traverssmith.com',
-        'portfoliopic': '/images/avatar/3.jpg',
+        'portfoliopic': 'images/avatar/3.jpg',
         'id': getId(),
       }]
     },
