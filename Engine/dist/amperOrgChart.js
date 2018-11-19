@@ -1457,7 +1457,7 @@ $.mockjax({
         'phone': '',
         'email': '',
         'isEmpty': 'noContent',
-        'portfoliopic': 'images/forest-holiday-logo.PNG',
+        'portfoliopic': 'images/forest-holiday-logo.png',
         'id': getId(),
         'children': [
           {
@@ -1478,7 +1478,7 @@ $.mockjax({
         'phone': '',
         'email': '',
         'isEmpty': 'noContent',
-        'portfoliopic': 'images/Busaba.PNG',
+        'portfoliopic': 'images/Busaba.png',
         'id': getId(),
         'children': [
           {
@@ -1584,7 +1584,7 @@ $.mockjax({
       'phone': '',
       'email': '',
       'isEmpty': 'noContent',
-      'portfoliopic': 'images/forest-holiday-logo.PNG',
+      'portfoliopic': 'images/forest-holiday-logo.png',
       'id': getId(),
       'children': [
         {
@@ -1663,7 +1663,7 @@ $.mockjax({
       'phone': '',
       'email': '',
       'isEmpty': 'noContent',
-      'portfoliopic': 'images/GNS-logo.PNG',
+      'portfoliopic': 'images/GNS-logo.png',
       'id': getId(),
       children:[ {
         'name': 'Emma Pereira',
